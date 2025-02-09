@@ -17,12 +17,16 @@ For Python:
 python --version
 ```
 🛠 Build and Run the Docker Image
+
 1️⃣ Build the App
-
+```bash
 docker build -t app.py .
-2️⃣ Verify the Docker Image
-docker images
+```
 
+2️⃣ Verify the Docker Image
+```bash
+docker images
+```
 
 ### **3️⃣ Commit and Push to GitHub**
 - After adding the content, scroll down and **commit the changes**.
